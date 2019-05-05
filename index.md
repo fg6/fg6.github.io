@@ -12,10 +12,11 @@ I have worked in **Bioinformatics**, analysing DNA sequencing data and combining
 
 And now, I am working as a **Data Scientist** consultant in industry, where my projects range from predictive analytics for cooling system failures to clusterising vehicles gps tracks.
 
-<!---
+
 ## Tutorials
-* * *
 * [Use Folium to Map your geografical data](https://github.com/fg6/Tutorials/blob/master/Folium/how_to_folium.ipynb)
+
+<!---
 ## Projects
 * * *
 ## Kaggle Kernels
