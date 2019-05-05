@@ -14,11 +14,11 @@ And now, I am working as a **Data Scientist** consultant in industry, where my p
 
 <!---
 -->
-## Tutorial
+## Tutorials
 * * *
 ## Projects
 * * *
-## kaggle kernels
+## Kaggle Kernels
 * * *
 
 
