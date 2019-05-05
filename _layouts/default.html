@@ -28,28 +28,12 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         <div class="icons-social">
-			    <a target="_blank" href="https://github.com/fg6"><i class="fab fa-github"></i></a>
-          <a target="_blank" href="https://twitter.com/@_frangy"><i class="fab fa-twitter"></i></a>
-			    <a target="_blank" href="https://www.linkedin.com/in/drfrancescagiordano/"><i class="fab fa-linkedin"></i></a>
+           <a target="_blank" href="https://github.com/fg6"><i class="fab fa-github fa-sm" ></i></a>
+           <a target="_blank" href="https://twitter.com/@_frangy"><i class="fab fa-twitter fa-lg"></i></a>
+	   <a target="_blank" href="https://www.linkedin.com/in/drfrancescagiordano/"><i class="fab fa-linkedin fa-2x"></i></a>
         </div>
         
-        {% if site.twitter_username %}
-         <li>
-           <a  href="https://twitter.com/{{ site.twitter_username }}">
-            <i class="fab fa-twitter"></i> 
-           </a>
-         </li>
-        {% endif %} 
-        
-        
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
+       
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
