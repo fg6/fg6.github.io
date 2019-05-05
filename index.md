@@ -2,8 +2,8 @@
 layout: default
 ---
 
-Since during my **PhD** in **Physics**, 10 years ago, I have been working on data analysis and using statistics 
-and machine learning techniques in both academic and commercial environments.
+Since during my **PhD** in **Physics**, 10 years ago, I have been working on **data analysis** and using **statistics** 
+and **machine learning** techniques in both academic and commercial environments.
 
 I have worked on large and complex dataset in Particle Physics, 
 trying to unravel the internal structure of protons with data cleaning, multivariate regressions and compatibility tests [[Paper]](https://arxiv.org/pdf/1310.5070.pdf).
@@ -15,6 +15,7 @@ And now, I am working as a **Data Scientist** consultant in industry, where my p
 <!---
 ## Tutorials
 * * *
+* [Use Folium to Map your geografical data](https://github.com/fg6/Tutorials/blob/master/Folium/how_to_folium.ipynb)
 ## Projects
 * * *
 ## Kaggle Kernels
