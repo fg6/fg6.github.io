@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Since during my PhD in physics, 10 years ago, I have been working on data analysis and using statistics 
+and machine learning techniques in both academic and commercial environments.
 
 
 
