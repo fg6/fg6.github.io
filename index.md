@@ -5,18 +5,20 @@ layout: default
 Since my **PhD** in **Physics**, 10 years ago, I have been working on **data analysis**, using **statistics** 
 and **machine learning** techniques in both academic and commercial environments.
 
-* I have experience as **Data Scientist** consultant in industry, with projects ranging from predictive analytics to vehicles gps tracks clustering.
+What I am passionate about is interrogating data to understand and solve problems. This passion lead me to analyse data in 
+various fields, from science to industry.
 
-* I analysed DNA sequencing data and assembled genomes as a **Bioinformatics** at the Wellcome Trust Sanger Institute [[Paper]](https://www.nature.com/articles/s41598-017-03996-z)
+* I applied machine learning to projects from predictive analytics to gps tracks clustering as a **Data Scientist** consultant.
 
-* I have worked on large and complex dataset in Particle Physics, 
-trying to unravel the internal structure of protons with data cleaning, multivariate regressions and compatibility tests [[Paper]](https://arxiv.org/pdf/1310.5070.pdf).
+* I analysed DNA sequencing data and assembled genomes as a **Bioinformatician** at the Wellcome Trust Sanger Institute [[Paper]](https://www.nature.com/articles/s41598-017-03996-z)
+
+* I contributed to unravel a tiny little bit of the internal structure of protons as a **Physicist** [[Paper]](https://arxiv.org/pdf/1310.5070.pdf).
 
 
 ## My own BioInformatics tools
 * My factotum tool for fast genomic sequences manipulation and interrogation [seq_factotum](https://github.com/fg6/seq_factotum)
 
-* Genome visualisation pipeline (uses [ACT](http://www.sanger.ac.uk/science/tools/artemis-comparison-tool-act) and [circlize](https://www.rdocumentation.org/packages/circlize)) [forACT](https://github.com/fg6/forACT)  
+* Genome visualisation pipeline (uses [ACT](http://www.sanger.ac.uk/science/tools/artemis-comparison-tool-act) and [circlize](https://www.rdocumentation.org/packages/circlize)): [forACT](https://github.com/fg6/forACT)  
  <img src="./img/viz_fig.001.png" width="500">
  
  * Want to get started with genome assembly? Look at my slides and scripts: [Intro to NGS](https://github.com/fg6/EBI_NGS_Assembly)
