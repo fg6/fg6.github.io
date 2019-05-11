@@ -17,7 +17,7 @@ trying to unravel the internal structure of protons with data cleaning, multivar
 * My factotum tool for fast genomic sequences manipulation and interrogation [seq_factotum](https://github.com/fg6/seq_factotum)
 
 * Genome visualisation pipeline (uses [ACT](http://www.sanger.ac.uk/science/tools/artemis-comparison-tool-act) and [circlize](https://www.rdocumentation.org/packages/circlize)) [forACT](https://github.com/fg6/forACT)  
-![]("/img/viz_fig.001.png")
+![](https://github.com/fg6/fg6.github.io/blob/master/img/viz_fig.001.png)
 
 ## Tutorials
 * Use **Folium** to Map your geografical data  
@@ -27,6 +27,14 @@ trying to unravel the internal structure of protons with data cleaning, multivar
 
 
 ## My favourite publications
+* [scanPAV: a pipeline for extracting presence-absence variations in genome pairs  
+   F. Giordano et al., Bioinformatics. 34(17):3022, 2018](https://www.ncbi.nlm.nih.gov/pubmed/29608694)  
+* [The origins and vulnerabilities of two transmissible cancers in Tasmanian devils,  
+   M.R. Stammnitz et al., Cancer Cell, 33(4):607-619.e15, 2018](https://www.ncbi.nlm.nih.gov/pubmed/29634948)  
+* [De novo yeast genome assemblies from MinION, PacBio and MiSeq platforms,  
+   F. Giordano et al., Scientific Reports 7, Article number: 3935, 2017](https://www.nature.com/articles/s41598-017-03996-z)  
+* [Oxford Nanopore MinION Sequencing and Genome Assembly,  
+   H. Lu et al., Genomics, Proteomics & Bioinformatics, Volume 14, Issue 5, 265, 2016](https://www.ncbi.nlm.nih.gov/pubmed/27646134)
 
 <!---
 ## Projects
