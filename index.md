@@ -17,7 +17,9 @@ trying to unravel the internal structure of protons with data cleaning, multivar
 * My factotum tool for fast genomic sequences manipulation and interrogation [seq_factotum](https://github.com/fg6/seq_factotum)
 
 * Genome visualisation pipeline (uses [ACT](http://www.sanger.ac.uk/science/tools/artemis-comparison-tool-act) and [circlize](https://www.rdocumentation.org/packages/circlize)) [forACT](https://github.com/fg6/forACT)  
-<>  <img src="./img/viz_fig.001.png" width="500">
+ <img src="./img/viz_fig.001.png" width="500">
+ 
+ * Want to get started with genome assembly? Look at my slides and scripts: [Intro to NGS](https://github.com/fg6/EBI_NGS_Assembly)
 
 ## Tutorials
 * Use **Folium** to Map your geografical data  
