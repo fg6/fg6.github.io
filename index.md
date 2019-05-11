@@ -14,7 +14,9 @@ And now, I am working as a **Data Scientist** consultant in industry, where my p
 
 
 ## Tutorials
-* [Use Folium to Map your geografical data](https://github.com/fg6/Tutorials/blob/master/Folium/how_to_folium.ipynb)
+* Use **Folium** to Map your geografical data (python, geo, visualization, gps coordinates, heatmap, layers):
+  [github](https://github.com/fg6/Tutorials/blob/master/Folium/how_to_folium.ipynb),
+  [nbviewer](https://nbviewer.jupyter.org/github/fg6/Tutorials/blob/master/Folium/how_to_folium.ipynb)
 
 <!---
 ## Projects
