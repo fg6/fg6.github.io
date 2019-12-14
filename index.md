@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Since my **PhD** in **Physics**, 10 years ago, I have been working on **data analysis**, using **statistics** 
+Since my **PhD** in **Physics**, 11 years ago, I have been working on **data analysis**, using **statistics** 
 and **machine learning** techniques in both academic and commercial environments.
 
 What I am passionate about is interrogating data to understand and solve problems. This passion lead me to analyse data in 
